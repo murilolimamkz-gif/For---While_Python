@@ -14,7 +14,7 @@ while jogar.upper() == "SIM":
 
         if i == 1:
             resposta = input(
-                "\n1) Qual a capital do Brasil?\nA) Rio de Janeiro\nB) Brasília\nC) São Paulo\nResposta: "
+                "\n1) Qual o maior país do Mundo em relação a território?\nA) Brasil\nB) Rússia\nC) Estados Unidos\nResposta: "
             ).upper()
 
             if resposta == "B":
@@ -25,7 +25,7 @@ while jogar.upper() == "SIM":
 
         elif i == 2:
             resposta = input(
-                "\n2) Quanto é 5 x 4?\nA) 20\nB) 25\nC) 15\nResposta: "
+                "\n2) Quanto é 60*3?\nA) 180\nB) 120\nC) 150\nResposta: "
             ).upper()
 
             if resposta == "A":
@@ -36,7 +36,7 @@ while jogar.upper() == "SIM":
 
         elif i == 3:
             resposta = input(
-                "\n3) Qual linguagem estamos estudando?\nA) Java\nB) C++\nC) Python\nResposta: "
+                "\n3) Quantos dias tem 1 ano?\nA) 360\nB) 367\nC) 365\nResposta: "
             ).upper()
 
             if resposta == "C":
@@ -47,7 +47,7 @@ while jogar.upper() == "SIM":
 
         elif i == 4:
             resposta = input(
-                "\n4) Qual planeta é conhecido como planeta vermelho?\nA) Marte\nB) Terra\nC) Júpiter\nResposta: "
+                "\n4) Qual é o maior Planeta do Sistema Solar?\nA) Júpiter\nB) Marte\nC) Vênus\nResposta: "
             ).upper()
 
             if resposta == "A":
@@ -58,7 +58,7 @@ while jogar.upper() == "SIM":
 
         elif i == 5:
             resposta = input(
-                "\n5) Quantos dias tem uma semana?\nA) 5\nB) 6\nC) 7\nResposta: "
+                "\n5) Qual é o maior artilheiro da seleção portuguesa?\nA) Pauleta\nB)  Eusébio\nC) Cristiano Ronaldo\nResposta: "
             ).upper()
 
             if resposta == "C":
